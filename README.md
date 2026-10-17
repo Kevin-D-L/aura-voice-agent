@@ -2,7 +2,7 @@
 
 A browser-based AI voice agent for the fictional D2C brand **Aura Skincare**. Click **Start Call**, speak, and Aria answers in a natural Indian English voice, looks up orders through tool calls, enforces brand policy, and produces a transcript + structured JSON summary when the call ends.
 
-- **Live app:** YOUR-LIVE-URL — best in **Microsoft Edge** on desktop (natural "Neerja" Indian voice); Chrome also works. Allow microphone access.
+- **Live app:** [YOUR-LIVE-URL](https://aura-voice-agent-kstar2.vercel.app) — best in **Microsoft Edge** on desktop (natural "Neerja" Indian voice); Chrome also works. Allow microphone access.
 - **Demo video:** YOUR-VIDEO-LINK
 - **Built by:** Kevin Lalai · [LinkedIn](https://www.linkedin.com/in/kevin-lalai-97758728a)
 
